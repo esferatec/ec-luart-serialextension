@@ -1,4 +1,4 @@
-# ec-luart-sysextension
+# ec-luart-serialextension
 
 This project provides various extension serial functions and properties for [LuaRT](https://www.luart.org/).
 

@@ -20,6 +20,7 @@ serialextension.baudrates = {
   57600,
   115200
 }
+
 -- List of supported byte sizes for serial communication.
 serialextension.bytesize  = {
   5,
@@ -76,7 +77,5 @@ function serialextension.comports()
 
   return ports
 end
-
---#endregion
 
 return serialextension
